@@ -106,6 +106,5 @@ iOSInjectionProject/
 /*.gcno
 **/xcshareddata/WorkspaceSettings.xcsettings
 
-# End of https://www.toptal.com/developers/gitignore/api/swift,xcode,cocoapods
+# macOS 시스템 파일
 .DS_Store
-Ch17/.DS_Store
